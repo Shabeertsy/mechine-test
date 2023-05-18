@@ -1,0 +1,34 @@
+/* navbar styling */
+.navbar-main{
+    width: 100vw;
+    height: 50px;
+    background-color: black;
+    color:white;
+}
+.navbar-inner{
+    padding-top: 13px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.main-logo{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+}
+.main-logo:hover{
+    color: red;
+}
+.routes{
+    display: flex;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.links:hover{
+    color: red;
+}

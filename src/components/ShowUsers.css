@@ -1,0 +1,49 @@
+.table-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+.table-inner{
+    border: 1px solid rgb(172, 171, 171);
+    width: 80%;
+    min-height: 600px;
+  
+}
+.table{
+    margin-left: 30%;
+    width: 30%;
+    margin-top: 20px;
+    
+}
+.td{
+    padding: 30px;
+    border: 1px solid rgb(150, 147, 147);
+}
+.row{
+    margin-top: 40px;
+}
+
+.delete{
+    color: red;
+}
+.delete:hover{
+    color:green;
+}
+.edit{
+    color: rgb(174, 154, 24);
+
+}
+.edit:hover{
+    color:rgb(22, 59, 22);
+}
+
+
+
+
+.br{
+    border: 1px solid black;
+}
+.text-center{
+    text-align: center;
+}

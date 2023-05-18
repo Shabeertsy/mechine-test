@@ -1,0 +1,46 @@
+/* form styling */
+.text-center{
+    text-align: center;
+}
+
+.form-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+
+}
+
+.form-inner{
+    padding-top: 20px;
+    width: 40%;
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.form-box{
+    margin-top: 30px;
+}
+.inp{
+    font-size: 1.1rem;
+    padding-left: 10px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 120px;
+    height: 30px;
+    border: 1px solid rgb(168, 167, 167);
+    border-radius: 5px;
+    outline: none;
+}
+.radio{
+    margin-left: 120px;
+    margin-top: 10px;
+
+}
+
+.error{
+    color: red;
+    margin-left: 120px;
+
+
+}
